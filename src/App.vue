@@ -24,12 +24,6 @@
         avatar: './public/avatar-pic.png',
         description: 'avatar Paulo',
         list_social: ['Instagram', 'GitHub', 'Linkedin'],
-        links_social: [
-          'http://www.instagram.com/dev.mais',
-          'https://www.github.com/PauloHPMKT',
-          'https://www.linkedin.com/in/paulo-sergio-frontend-dev/',
-        ]
-
       }
     }
   }
